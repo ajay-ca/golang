@@ -12,13 +12,13 @@ Enter your number:
 42524
 ```
 **Output:**
-```The given number is a palindrome```
+```42524 is a palindrome```
 
 **Input:**
 ```go
 Enter your number:
 2020
-```go
+```
 
 **Output:**
-```The given number is not a palindrome```
+```2020 is not a palindrome```
