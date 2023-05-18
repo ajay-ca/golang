@@ -13,8 +13,8 @@ Select the operation:
 3. Multiplication
 4. Division
 5. Exponent
-
 Your option: 5
-
 The result is: 9
+
+Do you want to Continue: no
 ```
