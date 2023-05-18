@@ -7,9 +7,9 @@ This repository contains **Golang Programs** which are handpicked from several s
 
 ## Levels
 
-1. Easy
-2. Medium
-3. Hard
+1. **[Easy](https://github.com/ajay-ca/golang/tree/master/Easy/)**
+2. **[Medium](https://github.com/ajay-ca/golang/tree/master/Medium/)**
+3. **[Hard](https://github.com/ajay-ca/golang/tree/master/Hard/)**
 
 ## About
 
