@@ -7,6 +7,8 @@ import (
 
 func main() {
 	var a, b, option, result float64
+	var redo string
+start:
 	fmt.Print("Enter the two numbers:\na = ")
 	fmt.Scan(&a)
 	fmt.Print("b = ")
@@ -26,8 +28,16 @@ calculation:
 	case 5:
 		result = math.Pow(a, b)
 	default:
-		fmt.Println("Invalid option. Try again: ")
+		fmt.Println("\nInvalid option. Try again: ")
+		//jumping to selecting the option again
 		goto calculation
 	}
 	fmt.Printf("The result is %.2f\n", result)
+
+	//asking for doing the calculation again
+	fmt.Printf("\nDo you want to Continue (Y/n): ")
+	fmt.Scan(&redo)
+	if (redo == "y" || redo == "Y") {
+		goto start
+	}
 }
