@@ -16,3 +16,10 @@ This repository contains **Golang Programs** which are handpicked from several s
 * Each category contains several problems labelled as folders.
 * Each folder contains the respective question and answer.
 * You can code by yourself or can refer my solutions. I will comment or create an alternative solution for the same question.
+
+## Credits
+
+* **[ChatGPT](https://chat.openai.com/)** 😁
+* **[Exercism](https://exercism.org/tracks/go)** 🏋️‍♂️ 
+* **[Tutorials Point](https://www.tutorialspoint.com/go/index.htm)** 📝
+* **[GeeksforGeeks](https://www.geeksforgeeks.org/golang/?ref=gcse)** 🤔
