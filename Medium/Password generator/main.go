@@ -90,10 +90,10 @@ func main() {
 	password := generator(length)
 	strength := passStrength(password, length)
 
-	fmt.Println("Generated password:\t(" + strength + ")")
+	fmt.Println("\nGenerated password:\t(" + strength + ")")
 	fmt.Println(password)
 
-	fmt.Print("Generate another (Y|y): ")
+	fmt.Print("\nGenerate another (Y|y): ")
 	fmt.Scan(&retry)
 	if retry == "Y" || retry == "y" {
 		goto GENERATE
