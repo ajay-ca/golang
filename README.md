@@ -19,7 +19,7 @@ This repository contains **Golang Programs** which are handpicked from several s
 
 ## Credits
 
-* **[ChatGPT](https://chat.openai.com/)** 😁
+* **[ChatGPT](https://chat.openai.com/)** 🤖
 * **[Exercism](https://exercism.org/tracks/go)** 🏋️‍♂️ 
 * **[Tutorials Point](https://www.tutorialspoint.com/go/index.htm)** 📝
 * **[GeeksforGeeks](https://www.geeksforgeeks.org/golang/?ref=gcse)** 🤔
