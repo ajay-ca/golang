@@ -1,4 +1,4 @@
-#PASSWORD GENERATOR
+# PASSWORD GENERATOR
 
 **Exercise:**
 Create a Golang program which generates a password based on the desired length

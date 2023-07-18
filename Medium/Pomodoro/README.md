@@ -1,4 +1,4 @@
-#POMODORO
+# POMODORO
 
 **Exercise:**
 Create a Golang program which acts as a pomodoro timer based on users preferred time and let them now when the timer ends
