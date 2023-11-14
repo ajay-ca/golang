@@ -1,6 +1,5 @@
 <h1 align="center">GOLANG</h1>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <br>
 
 This repository contains **Golang Programs** which are handpicked from several sources and categorised in this repository. All of these answers for each exercise are my personal coding. So feel free to write your own while exercising.
